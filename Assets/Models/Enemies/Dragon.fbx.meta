@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: b5ff4cabe40987b42aef1951982a99fd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLegLeft1
+    100002: BackLegRight1
+    100004: Body
+    100006: //RootNode
+    100008: Eyes
+    100010: FrontLefLeft
+    100012: FrontLegRight1
+    100014: Head
+    100016: Horns
+    100018: LeftWing
+    100020: Nails
+    100022: Neck
+    100024: polySurface4
+    100026: pPlane3
+    100028: RightWing
+    100030: Tail5
+    100032: WingSpikes
+    400000: BackLegLeft1
+    400002: BackLegRight1
+    400004: Body
+    400006: //RootNode
+    400008: Eyes
+    400010: FrontLefLeft
+    400012: FrontLegRight1
+    400014: Head
+    400016: Horns
+    400018: LeftWing
+    400020: Nails
+    400022: Neck
+    400024: polySurface4
+    400026: pPlane3
+    400028: RightWing
+    400030: Tail5
+    400032: WingSpikes
+    2100000: lambert1
+    2100002: Checker
+    2300000: BackLegLeft1
+    2300002: BackLegRight1
+    2300004: Body
+    2300006: Eyes
+    2300008: FrontLefLeft
+    2300010: FrontLegRight1
+    2300012: Head
+    2300014: Horns
+    2300016: LeftWing
+    2300018: Nails
+    2300020: Neck
+    2300022: polySurface4
+    2300024: pPlane3
+    2300026: RightWing
+    2300028: Tail5
+    2300030: WingSpikes
+    3300000: BackLegLeft1
+    3300002: BackLegRight1
+    3300004: Body
+    3300006: Eyes
+    3300008: FrontLefLeft
+    3300010: FrontLegRight1
+    3300012: Head
+    3300014: Horns
+    3300016: LeftWing
+    3300018: Nails
+    3300020: Neck
+    3300022: polySurface4
+    3300024: pPlane3
+    3300026: RightWing
+    3300028: Tail5
+    3300030: WingSpikes
+    4300000: Body
+    4300002: Neck
+    4300004: Tail5
+    4300006: Head
+    4300008: LeftWing
+    4300010: RightWing
+    4300012: Nails
+    4300014: WingSpikes
+    4300016: Horns
+    4300018: Eyes
+    4300020: BackLegLeft1
+    4300022: FrontLefLeft
+    4300024: BackLegRight1
+    4300026: FrontLegRight1
+    4300028: pPlane3
+    4300030: polySurface4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2626cb4cca6edf94e9718dad69b55e91, type: 3}
+  m_Name: Mushroom Stem
+  m_EditorClassIdentifier: 
+  itemID: 0
+  itemName: Mushroom stem
+  icon: {fileID: 21300000, guid: 733389b44a72ab84eb947c291e177a13, type: 3}
+  mesh: {fileID: 4300004, guid: d54902ff72b103c43a052646e99b4ffd, type: 3}
+  material: {fileID: 2100000, guid: 87d7bcdd2019fb848a9b86871116a861, type: 2}
+  Size: {x: 0.75, y: 0.75, z: 0.75}
+  description: The stem of a walking mushroom.
+  isDefaultItem: 0
+  maxStack: 999
+  currentAmount: 15
+  stackable: 1

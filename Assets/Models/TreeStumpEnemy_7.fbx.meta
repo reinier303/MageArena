@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 3226f2860294307498441d00d30a7d10
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body_Main
+    100004: TreeStumpEnemy
+    100006: //RootNode
+    100008: Twig_L
+    100010: Twig_L_end
+    100012: Twig_U
+    100014: Vine_L_1
+    100016: Vine_L_1_end
+    100018: Vine_L_2
+    100020: Vine_L_2_end
+    100022: Vine_L_3
+    100024: Vine_L_3_end
+    100026: Vine_L_4
+    100028: Vine_L_4_end
+    100030: Vine_L_5
+    100032: Vine_L_5_end
+    100034: Vine_L_6
+    100036: Vine_L_6_end
+    100038: Vine_L_7
+    100040: Vine_L_7_end
+    100042: Vine_L_8
+    100044: Vine_L_8_end
+    100046: Vine_U_1
+    100048: Vine_U_2
+    100050: Vine_U_3
+    100052: Vine_U_4
+    100054: Vine_U_5
+    100056: Vine_U_6
+    100058: Vine_U_7
+    100060: Vine_U_8
+    400000: Armature
+    400002: Body_Main
+    400004: TreeStumpEnemy
+    400006: //RootNode
+    400008: Twig_L
+    400010: Twig_L_end
+    400012: Twig_U
+    400014: Vine_L_1
+    400016: Vine_L_1_end
+    400018: Vine_L_2
+    400020: Vine_L_2_end
+    400022: Vine_L_3
+    400024: Vine_L_3_end
+    400026: Vine_L_4
+    400028: Vine_L_4_end
+    400030: Vine_L_5
+    400032: Vine_L_5_end
+    400034: Vine_L_6
+    400036: Vine_L_6_end
+    400038: Vine_L_7
+    400040: Vine_L_7_end
+    400042: Vine_L_8
+    400044: Vine_L_8_end
+    400046: Vine_U_1
+    400048: Vine_U_2
+    400050: Vine_U_3
+    400052: Vine_U_4
+    400054: Vine_U_5
+    400056: Vine_U_6
+    400058: Vine_U_7
+    400060: Vine_U_8
+    2100000: Material
+    4300000: TreeStumpEnemy
+    7400000: Armature|Death
+    7400002: Armature|Death 2.0
+    7400004: Armature|Default
+    7400006: Armature|Walking
+    7400008: Armature|Walking2.0
+    9500000: //RootNode
+    13700000: TreeStumpEnemy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

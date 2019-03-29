@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e69c60a9c0b392647af7a9b38ee1a16d, type: 3}
+  m_Name: Ring of fire
+  m_EditorClassIdentifier: 
+  itemID: 4
+  itemName: Ring of fire
+  icon: {fileID: 21300000, guid: 4efff25fb2e684d438db4ff99991df67, type: 3}
+  mesh: {fileID: 4300000, guid: a5f6358e2495e7046b1fd0de63975500, type: 3}
+  material: {fileID: 2100000, guid: a5f6358e2495e7046b1fd0de63975500, type: 3}
+  description: New Description
+  isDefaultItem: 0
+  maxStack: 0
+  currentAmount: 0
+  stackable: 0
+  equipSlot: 4
+  armorModifier: 0
+  damageModifier: 0

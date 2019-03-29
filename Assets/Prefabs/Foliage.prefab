@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &598121950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 598121954}
+  - component: {fileID: 598121953}
+  - component: {fileID: 598121952}
+  - component: {fileID: 598121951}
+  m_Layer: 0
+  m_Name: Foliage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &598121954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598121950}
+  m_LocalRotation: {x: 0.6122656, y: 0.3536151, z: 0.3534917, w: -0.6124793}
+  m_LocalPosition: {x: 32.675114, y: 0, z: -15.407816}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -89.98, y: 300, z: 0}
+--- !u!33 &598121953
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598121950}
+  m_Mesh: {fileID: 4300000, guid: f6a8950146724724eb2f4e4a8cba3b85, type: 3}
+--- !u!23 &598121952
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598121950}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 5c5cfacc5bfd73d439f70d1e406793a3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!114 &598121951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598121950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d3f987d8ad0f64ebe6b635799dca81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Meshes:
+  - name: Grass
+    mesh: {fileID: 4300000, guid: f6a8950146724724eb2f4e4a8cba3b85, type: 3}
+    weight: 100
+  - name: Grass2
+    mesh: {fileID: 4300000, guid: ff417f003caefaf4b993a05c9018817b, type: 3}
+    weight: 60
+  - name: Grass3
+    mesh: {fileID: 4300000, guid: 933fcbcda31d1ab4692884f2b1748bb6, type: 3}
+    weight: 20
+  - name: Mush1
+    mesh: {fileID: 4300000, guid: 948ae2bb603d41b4c9beef2ce6d581d6, type: 3}
+    weight: 19
+  - name: Mush2
+    mesh: {fileID: 4300000, guid: 38c1af38602238440bff7cf21e2f379f, type: 3}
+    weight: 15
+  - name: Stone1
+    mesh: {fileID: 4300000, guid: 4638de3ae57ecd94c96fd5c833af099f, type: 3}
+    weight: 11
+  - name: Stone2
+    mesh: {fileID: 4300000, guid: 92626ec2be26b6e4a954195f14532bde, type: 3}
+    weight: 7
+  - name: Fern
+    mesh: {fileID: 4300000, guid: fadbb83e40be92648870857430730dd0, type: 3}
+    weight: 4

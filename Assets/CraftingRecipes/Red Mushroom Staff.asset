@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fbdb54ba3d6fb45a7ef2d4505faaa4, type: 3}
+  m_Name: Red Mushroom Staff
+  m_EditorClassIdentifier: 
+  Materials:
+  - Item: {fileID: 11400000, guid: 5ce9930b9ccd576479534abaca8fadd7, type: 2}
+    Amount: 15
+  - Item: {fileID: 11400000, guid: 864d459bd89abf24db40a83e7e7d9a5e, type: 2}
+    Amount: 5
+  - Item: {fileID: 11400000, guid: b62e84cdfb13b664f882e1d02a6b666a, type: 2}
+    Amount: 3
+  Results:
+  - Item: {fileID: 11400000, guid: 933e9a3fd3148a647aefcd3d789cbb03, type: 2}
+    Amount: 0

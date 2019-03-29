@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fbdb54ba3d6fb45a7ef2d4505faaa4, type: 3}
+  m_Name: Iron Staff
+  m_EditorClassIdentifier: 
+  Materials:
+  - Item: {fileID: 11400000, guid: 70da8824f931e0149888a9f035093b4e, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: 81f5481d2b0edbb4bb20cc0dcd1f0c4d, type: 2}
+    Amount: 5
+  - Item: {fileID: 11400000, guid: da18f9d81b01b5e4e9fae0b57eacbd04, type: 2}
+    Amount: 5
+  Results:
+  - Item: {fileID: 11400000, guid: fb3de963c88047e488a3740f41bf5dff, type: 2}
+    Amount: 1
